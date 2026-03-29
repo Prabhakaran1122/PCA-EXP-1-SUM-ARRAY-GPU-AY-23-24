@@ -969,4 +969,4 @@ BLOCK : 1024
 
 
 ## RESULT:
-Thus, Implementation of sum arrays on host and device is done in nvcc cuda using random number.
+Thus, Implementation of sum arrays on host and device is done in nvcc cuda using random number and the Block excecution with 1024 has elapsed lower time when compsred to other blocks.
